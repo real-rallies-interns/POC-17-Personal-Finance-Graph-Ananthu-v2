@@ -1,0 +1,6 @@
+1. To run /backend : uvicorn main:app --reload
+2. To run /frontend : npm run dev
+
+Frontend localhost face : http://localhost:3000
+backend localhost api : http://127.0.0.1:8000/docs#/
+backend intelligent json : http://127.0.0.1:8000/intelligence/rail-data

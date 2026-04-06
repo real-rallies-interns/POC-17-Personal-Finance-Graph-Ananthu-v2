@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root {
+  --background: #030712; /* Mandatory Obsidian Black [cite: 11] */
+  --foreground: #ffffff;
+}
+
+body {
+  background-color: #030712;
+  color: #ffffff;
+  font-family: 'Inter', sans-serif; /* [cite: 16] */
+}
